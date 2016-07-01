@@ -3,7 +3,7 @@
 
 `cd omni5.1.1`
 
-`git clone git@github.com:Grace5921/twrp_kyleve-kylevess.git -b kylevess device/samsung/kylevess `
+`git clone https://github.com/Grace5921/twrp_device_samsung_kylevess.git -b 5.1.1 device/samsung/kylevess `
 
 `. build/envsetup.sh`
 
